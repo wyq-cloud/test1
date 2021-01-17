@@ -1,1 +1,2 @@
 #include<stack>
+int main（）{}
